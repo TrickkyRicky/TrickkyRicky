@@ -6,7 +6,7 @@
 
 <!--   <img align="top" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=trickkyricky&show_icons=true&locale=en&layout=compact" alt="trickkyricky" /> --> 
   
-<img align="right" src="https://api.daily.dev/devcards/v2/kop1plJeE.png?type=default&r=u0m" width="310" alt="Ricky's Dev Card"/>
+<img align="right" src="./devcard.png" width="310" alt="Ricky's Dev Card"/>
 
   
 𝑰 ❤️ Full Stack Development
