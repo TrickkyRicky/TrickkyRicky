@@ -100,7 +100,7 @@
 
 ## 📊 Stats
 <div>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=trickkyricky&theme=dark&hide_border=true&background=161B22" alt="trickkyricky" />
-  <img align="left" height="195" src="https://github-readme-stats.vercel.app/api/top-langs?username=trickkyricky&show_icons=true&locale=en&layout=compact&hide_border=true&bg_color=161B22" alt="trickkyricky" />
+  <img align="left" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=trickkyricky&theme=dark&hide_border=true&background=161B22" alt="trickkyricky" />
+  <img align="left" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=trickkyricky&show_icons=true&locale=en&layout=compact&hide_border=true&bg_color=161B22" alt="trickkyricky" />
 </div>
 <img align="center" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
