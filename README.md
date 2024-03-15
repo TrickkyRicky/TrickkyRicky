@@ -6,7 +6,7 @@
 
 <!--   <img align="top" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=trickkyricky&show_icons=true&locale=en&layout=compact" alt="trickkyricky" /> --> 
   
-<img align="right" src="https://api.daily.dev/devcards/v2/kop1plJeE.png?type=default&r=u0m" width="300" alt="Ricky's Dev Card"/>
+<img align="right" src="https://api.daily.dev/devcards/v2/kop1plJeE.png?type=default&r=u0m" width="350" alt="Ricky's Dev Card"/>
 
   
 𝑰 ❤️ Full Stack Development
@@ -19,9 +19,9 @@
 
 ### I'm currently working on
 <p>
-  <img src="https://github.com/TrickkyRicky/TrickkyRicky/assets/60045899/6b35308a-b8bc-41f0-9cb9-ee4a10edd804" width="575" alt="Ricky's Dev Card"/>
-  <img src="https://github.com/TrickkyRicky/TrickkyRicky/assets/60045899/c9c930d9-0449-4b4c-9581-9827b74e3b18" width="575" alt="Ricky's Dev Card"/>
-  <img src="https://github.com/TrickkyRicky/TrickkyRicky/assets/60045899/de2631c6-5ead-412a-bafc-62ebdb2598cd" width="575" alt="Ricky's Dev Card"/>
+  <img src="https://github.com/TrickkyRicky/TrickkyRicky/assets/60045899/aabbabaf-15c6-4934-b809-b1089c43af75" width="500" alt="Ricky's Dev Card"/>
+  <img src="https://github.com/TrickkyRicky/TrickkyRicky/assets/60045899/b1c377bd-d9e9-4aaa-8be9-722bd28a28c3" width="500" alt="Ricky's Dev Card"/>
+  <img src="https://github.com/TrickkyRicky/TrickkyRicky/assets/60045899/af02d507-0b5d-462e-8dbd-55403eea2e76" width="500" alt="Ricky's Dev Card"/>
 </p>
 
 <br clear="right"/>
