@@ -15,7 +15,7 @@
 
 🖖 React.js fanatic | 🍎 Backend learner | ☕️ coffee lover | 🌵 Anime/Manga addict
 
-:writing_hand: I am studying for the AWS [Certified Solutions Architect](https://aws.amazon.com/certification/certified-solutions-architect-associate/) certification.
+:writing_hand: I am making updates for [Siphon Zone](https://github.com/TrickkyRicky/Siphon-Zone-Viewing) certification.
 
 ### I'm currently working on
 <p>
