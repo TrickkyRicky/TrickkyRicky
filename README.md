@@ -15,7 +15,7 @@
 
 🖖 React.js fanatic | 🍎 Backend learner | ☕️ coffee lover | 🌵 Anime/Manga addict
 
-:writing_hand: I am making updates for [Siphon Zone](https://github.com/TrickkyRicky/Siphon-Zone-Viewing) certification.
+:writing_hand: I am making updates for [Siphon Zone](https://github.com/TrickkyRicky/Siphon-Zone-Viewing) Mobile App.
 
 ### I'm currently working on
 <p>
