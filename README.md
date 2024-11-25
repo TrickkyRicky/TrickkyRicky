@@ -1,7 +1,7 @@
 
 <h1 align="left">Richard Young</h1>
 
-[![Ricky](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-g-young/)
+<!--  [![Ricky](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-g-young/) -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://richardyoung.dev/)
 
 <!--   <img align="top" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=trickkyricky&show_icons=true&locale=en&layout=compact" alt="trickkyricky" /> --> 
